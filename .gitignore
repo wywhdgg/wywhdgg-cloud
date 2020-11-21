@@ -43,3 +43,15 @@ logs
 /log
 /tmp
 hotspot.log
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/*/target/
+/target/
+/logs/
+/*/module*.xml
+/*/logs/
+target
