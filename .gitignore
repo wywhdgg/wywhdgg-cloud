@@ -45,6 +45,7 @@ logs
 hotspot.log
 
 # IntelliJ project files
+/.idea/
 .idea
 *.iml
 out
