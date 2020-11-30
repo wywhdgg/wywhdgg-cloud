@@ -1,4 +1,4 @@
-package com.lingzhi.zuul.ribbon;
+package com.lingzhi.ribbon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

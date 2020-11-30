@@ -1,7 +1,7 @@
 /*
  * 天虹商场股份有限公司版权所有.
  */
-package com.lingzhi.zuul.ribbon.command;
+package com.lingzhi.ribbon.command;
 
 import com.netflix.hystrix.HystrixCommand;
 import com.netflix.hystrix.HystrixCommandGroupKey;

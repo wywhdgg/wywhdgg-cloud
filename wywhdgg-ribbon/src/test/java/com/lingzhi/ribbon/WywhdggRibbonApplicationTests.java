@@ -1,4 +1,4 @@
-package com.lingzhi.zuul.ribbon;
+package com.lingzhi.ribbon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

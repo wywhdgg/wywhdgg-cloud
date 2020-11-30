@@ -1,4 +1,4 @@
-package com.lingzhi.zuul.ribbon.domain;
+package com.lingzhi.ribbon.domain;
 
 import lombok.Data;
 import lombok.ToString;

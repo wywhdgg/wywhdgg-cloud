@@ -1,4 +1,4 @@
-package com.lingzhi.zuul.ribbon.futrue;
+package com.lingzhi.ribbon.futrue;
 
 import java.util.Random;
 import java.util.concurrent.Callable;

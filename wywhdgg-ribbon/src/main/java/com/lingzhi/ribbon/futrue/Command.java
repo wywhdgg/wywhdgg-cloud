@@ -1,4 +1,4 @@
-package com.lingzhi.zuul.ribbon.futrue;
+package com.lingzhi.ribbon.futrue;
 
 public interface Command<T> {
     T run();
