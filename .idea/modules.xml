@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/wywhdgg-client/wywhdgg-client.iml" filepath="$PROJECT_DIR$/wywhdgg-client/wywhdgg-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/wywhdgg-cloud.iml" filepath="$PROJECT_DIR$/wywhdgg-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wywhdgg-demo1/wywhdgg-demo1.iml" filepath="$PROJECT_DIR$/wywhdgg-demo1/wywhdgg-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wywhdgg-demo2/wywhdgg-demo2.iml" filepath="$PROJECT_DIR$/wywhdgg-demo2/wywhdgg-demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/wywhdgg-eureka/wywhdgg-eureka.iml" filepath="$PROJECT_DIR$/wywhdgg-eureka/wywhdgg-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wywhdgg-feign/wywhdgg-feign.iml" filepath="$PROJECT_DIR$/wywhdgg-feign/wywhdgg-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wywhdgg-ribbon/wywhdgg-ribbon.iml" filepath="$PROJECT_DIR$/wywhdgg-ribbon/wywhdgg-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wywhdgg-user/wywhdgg-user.iml" filepath="$PROJECT_DIR$/wywhdgg-user/wywhdgg-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wywhdgg-zuul/wywhdgg-zuul.iml" filepath="$PROJECT_DIR$/wywhdgg-zuul/wywhdgg-zuul.iml" />
     </modules>
   </component>
 </project>

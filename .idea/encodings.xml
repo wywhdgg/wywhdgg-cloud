@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/wywhdgg-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/wywhdgg-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-demo1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-demo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wywhdgg-zuul/src/main/java" charset="UTF-8" />
   </component>
 </project>

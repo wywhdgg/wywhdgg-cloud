@@ -6,20 +6,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="wywhdgg-demo2" />
+        <module name="wywhdgg-demo1" />
         <module name="wywhdgg-eureka" />
+        <module name="wywhdgg-ribbon" />
         <module name="wywhdgg-client" />
+        <module name="wywhdgg-feign" />
+        <module name="wywhdgg-user" />
+        <module name="wywhdgg-zuul" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel>
       <module name="wywhdgg-client" target="1.8" />
-      <module name="wywhdgg-cloud" target="1.5" />
+      <module name="wywhdgg-cloud" target="1.8" />
+      <module name="wywhdgg-demo1" target="1.8" />
+      <module name="wywhdgg-demo2" target="1.8" />
       <module name="wywhdgg-eureka" target="1.8" />
+      <module name="wywhdgg-feign" target="1.8" />
+      <module name="wywhdgg-ribbon" target="1.8" />
+      <module name="wywhdgg-user" target="1.8" />
+      <module name="wywhdgg-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="wywhdgg-client" options="-parameters" />
+      <module name="wywhdgg-demo1" options="-parameters" />
+      <module name="wywhdgg-demo2" options="-parameters" />
       <module name="wywhdgg-eureka" options="-parameters" />
+      <module name="wywhdgg-feign" options="-parameters" />
+      <module name="wywhdgg-ribbon" options="-parameters" />
+      <module name="wywhdgg-user" options="-parameters" />
+      <module name="wywhdgg-zuul" options="-parameters" />
     </option>
   </component>
 </project>

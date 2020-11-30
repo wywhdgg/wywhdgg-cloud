@@ -23,6 +23,9 @@
         <module>wywhdgg-ribbon</module>
         <module>wywhdgg-demo1</module>
         <module>wywhdgg-demo2</module>
+        <module>wywhdgg-zuul</module>
+        <module>wywhdgg-user</module>
+        <module>wywhdgg-feign</module>
     </modules>
 
     <properties>
